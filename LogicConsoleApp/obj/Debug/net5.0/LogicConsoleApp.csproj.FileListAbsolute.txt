@@ -1,0 +1,16 @@
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\bin\Debug\net5.0\LogicConsoleApp.exe
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\bin\Debug\net5.0\LogicConsoleApp.deps.json
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\bin\Debug\net5.0\LogicConsoleApp.runtimeconfig.json
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\bin\Debug\net5.0\LogicConsoleApp.runtimeconfig.dev.json
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\bin\Debug\net5.0\LogicConsoleApp.dll
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\bin\Debug\net5.0\ref\LogicConsoleApp.dll
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\bin\Debug\net5.0\LogicConsoleApp.pdb
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\obj\Debug\net5.0\LogicConsoleApp.csprojAssemblyReference.cache
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\obj\Debug\net5.0\LogicConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\obj\Debug\net5.0\LogicConsoleApp.AssemblyInfoInputs.cache
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\obj\Debug\net5.0\LogicConsoleApp.AssemblyInfo.cs
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\obj\Debug\net5.0\LogicConsoleApp.csproj.CoreCompileInputs.cache
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\obj\Debug\net5.0\LogicConsoleApp.dll
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\obj\Debug\net5.0\ref\LogicConsoleApp.dll
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\obj\Debug\net5.0\LogicConsoleApp.pdb
+C:\InmarTest\LogicConsoleApp\LogicConsoleApp\obj\Debug\net5.0\LogicConsoleApp.genruntimeconfig.cache
