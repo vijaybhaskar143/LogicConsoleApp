@@ -6,7 +6,7 @@ namespace LogicConsoleApp
     {
         public static void Main(string[] args)
         {
-            //LogicFizzBuzz();
+            LogicFizzBuzz();
 
             Console.WriteLine("Enter String Value:");
 
